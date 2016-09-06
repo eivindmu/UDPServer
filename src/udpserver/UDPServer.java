@@ -38,7 +38,7 @@ public class UDPServer {
     }
     
     /**
-     * 
+     * Receives data from client, then sends it to the data handler
      * @throws Exception 
      */
     private void run() throws Exception
