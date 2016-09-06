@@ -35,7 +35,7 @@ public class DataHandler {
     
     /**
      * Checks for changes in controls
-     * @param list 
+     * @param list Arraylist containing the controls
      */
     public void checkData(ArrayList<Boolean> list)
     {
