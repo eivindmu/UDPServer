@@ -37,6 +37,10 @@ public class UDPServer {
         this.run();
     }
     
+    /**
+     * 
+     * @throws Exception 
+     */
     private void run() throws Exception
     {
         serverSocket = new DatagramSocket(serverPort);
