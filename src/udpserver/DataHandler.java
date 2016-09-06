@@ -33,6 +33,10 @@ public class DataHandler {
         }
     }
     
+    /**
+     * Checks for changes in controls
+     * @param list 
+     */
     public void checkData(ArrayList<Boolean> list)
     {
         if(list != dataList)
